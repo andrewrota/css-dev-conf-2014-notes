@@ -1,0 +1,16 @@
+# Opening Keynote: Flying Lessons
+ **By Rebecca Murphey**
+
+This isn't a talk about CSS or JavaScript.
+
+Learning to fly was about learning to be permanently new at this thing.  Being permanently new is what drives our careers in computers.  You can be competant, and above average at things, but the more you learn the more you realize what you don't know.
+
+When you fly you can't pull over, so it's important that you have a clear understanding of your priorities.  Aviate, navigate, commuicate: distills your priorites into three words.  Refer to your priorities even when things are stressful, and that makes smaller decisions easier.  Study, ask, do when you're new at your job.
+
+*Far Aim 2014* is a book by the FAA.  Has a regulation that "Each pilot in command shall, before beginning a flight, become familiar with all available information concerning that flight."  Called a ramp check if they think you don't have the necessary information.  What does all available information mean for software development?  It's more of a challenge: what information should you have, that you don't have.  This is really important when you're making assertions about things.  Before you assert something, take a moment and make sure it's true.  Check yourself and make sure your assumptions are true.
+
+You can find yourself in a situation where you're disoriented. Have tactics you can use to reorient yourself.  In software development, one of your best instruments/tools is the reduced test case.  Also, get good at using devtools so those are a comfortable home base.  Don't be scared of your dev tools.
+
+Once you're reoriented you might still be in a bad situation.  4 C's: "Climb, confess, communicate, comply."  These are important words to remember when you find yourself in over your head.  Climb is to get a better view of the situation.  Sometimes that fixes it, sometimes it doesn't.  Then the second C is 'confess'.  It's acknowledging that you have a problem and you need help.  The third C is communicate: once you have acknowledged that you need help and have to ask someone else for help, you need to do it.  When you're in a bad place and need help in a plane, ATC is not judgmental and tries to help.  Asks what the other person need help with, and pressuring them to distill their question to what's necessary, but then helping them get back on the ground.  Later, you can have a conversation as to why they didn't understand what they should have.
+
+The go-around: probably one of the single most important things when you're learning to fly.  You learn and practice that sometimes, despite your best efforts and planning, you're ready to land and realize it's not right.  Continuing would be dangerous, bad judgment.  There is no shame in noticing that and having the presence of mind to decide to go around and try again.  You have to make a decision that that's not going to work out.  We don't have a lot of chances to practice that in real life.  Through no fault of our own we have to start over.  We get that in our world by experience.  Look for ways to practice that.
