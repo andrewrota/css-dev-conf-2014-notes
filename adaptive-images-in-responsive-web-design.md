@@ -54,3 +54,4 @@ Compressed JPEGS.  Compress a large image all the way down to 0 quality in Photo
 **Future?**
 
 It would be great if we had a solution that was a simple design for users/designers.  A browser/server handshake (like `client-hint`), and an image with the same file but several formats.  Microsoft already did this sith favicon.  The .ico file could share multiple version of the same image in the same file.  Compare that to mobile icons on iOS where you need several multiple versions.
+
