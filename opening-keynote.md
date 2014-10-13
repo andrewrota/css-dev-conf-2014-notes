@@ -1,5 +1,5 @@
 # Opening Keynote: Flying Lessons
- **By Rebecca Murphey**
+ **By Rebecca Murphey, [@rmurphey](http://twitter.com/rmurphey)**
 
 This isn't a talk about CSS or JavaScript.
 
